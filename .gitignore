@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+.vscode/
+.idea/
+*.log
+.clawhub/
+.openclaw/
+.env.local
